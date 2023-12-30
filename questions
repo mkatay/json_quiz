@@ -1,0 +1,112 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "type": "radio",
+        "options": [
+            "Paris",
+            "Berlin",
+            "London",
+            "Rome"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "type": "radio",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Venus",
+            "Saturn"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "question": "In which year did Christopher Columbus reach the Americas?",
+        "type": "radio",
+        "options": [
+            "1492",
+            "1510",
+            "1605",
+            "1622"
+        ],
+        "answer": "1492"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "type": "radio",
+        "options": [
+            "Blue Whale",
+            "Elephant",
+            "Giraffe",
+            "Hippopotamus"
+        ],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "type": "radio",
+        "options": [
+            "William Shakespeare",
+            "Jane Austen",
+            "Charles Dickens",
+            "Homer"
+        ],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "type": "radio",
+        "options": [
+            "Yen",
+            "Won",
+            "Ringgit",
+            "Baht"
+        ],
+        "answer": "Yen"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "type": "radio",
+        "options": [
+            "Oxygen",
+            "Gold",
+            "Silver",
+            "Carbon"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "type": "radio",
+        "options": [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean"
+        ],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "type": "radio",
+        "options": [
+            "Leonardo da Vinci",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Claude Monet"
+        ],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "type": "radio",
+        "options": [
+            "Canberra",
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "answer": "Canberra"
+    }
+]
